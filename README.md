@@ -12,5 +12,11 @@ The height of CustomWebview is screen height.
 <img src="layout.png" width="300" />
 
 
-# demo
+# Without NestedScrollView
+This looks like normal scrollview. User cannot scroll content of webview.
+
+<img src="original.gif" width="300" />
+
+# With NestedScrollView
+
 <img src="demo.gif" width="300" />
